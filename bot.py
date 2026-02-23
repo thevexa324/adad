@@ -15,9 +15,9 @@ from telegram.ext import (
 )
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-INSTA_USER = "YOUR_INSTAGRAM_USERNAME"
-INSTA_PASS = "YOUR_INSTAGRAM_PASSWORD"
+BOT_TOKEN = "8421640384:AAEwhC-l296tD_SKwSIclceEEtge3sb4qhc"
+INSTA_USER = "ig_akash_thakur1"
+INSTA_PASS = "gr555ebrt"
 SESSION_FILE = "insta_session.json"
 
 # Conversation States
