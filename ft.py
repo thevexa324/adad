@@ -19,7 +19,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # ────────────────────────────────────────────────
 # CONFIG
 # ────────────────────────────────────────────────
-BOT_TOKEN = "8421640384:AAEwhC-l296tD_SKwSIclceEEtge3sb4qhc"
+BOT_TOKEN = "8514551314:AAFD36VoK5EMwFBlc0v9y2VX2ddo3pgPSzE"
 ADMIN_IDS = [8434238157]               # Add more admin IDs here if needed
 
 WEBSITE_URL = "https://satellitestress.st/attack"
@@ -382,4 +382,5 @@ def cmd_uptime(message):
     bot.reply_to(message, "Bot is online and running since script start ⚡")
 
 print("Bot v6 full version started – emoji + bold + countdown + double delete")
+
 bot.infinity_polling()
